@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **react.js,Java,Java Script,HTML,Bootstrap,Python**
+- 💬 Ask me about **react.js,Java,Java Script,HTML,Bootstrap,Python,c#**
 
 - 📫 How to reach me **ijasrxd33@gmail.com**
 
